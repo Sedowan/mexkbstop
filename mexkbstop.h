@@ -1,5 +1,5 @@
 // mexKbstop.c set classes being used
 
-bool init_mexKbhit(void);
-bool mexKbhit(void);
-bool stop_mexKbhit(void);
+bool init_mexKbstop(void);
+bool mexKbstop(void);
+bool stop_mexKbstop(void);
