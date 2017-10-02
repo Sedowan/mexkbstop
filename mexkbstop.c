@@ -9,7 +9,7 @@
  * https://de.mathworks.com/matlabcentral/fileexchange/30622-non-wait-detection-of-keyboard-input--including-mex-implementation-?focused=5178714&tab=overview
  * 
  * 
- * See the Demo_function below:
+ * See the mexkbstop_Demo.c below:
    
    
     #include "mex.h"
@@ -53,6 +53,7 @@
     }
  
  * 
+ * To compile the files use mex -v mexkbstop_Demo.c
  * 
  */
 
