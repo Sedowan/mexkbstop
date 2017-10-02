@@ -2,10 +2,10 @@
  *
  * The functions used in mexkbstop.c are there to initiate the listening (init_mexkbstop), automatically recognize the combination of "CTRL + D" beeing pressed and giving back a "true/1" if asked (mexkbstop). The function closes by using stop_mexkbstop.
  *
- * (Thank you) The function and functionalaty is inspirated by Nathanael Perraudin using his function kbstop.m on github:
+ * (Thank you) The function and functionality is inspirited by Nathanael Perraudin using his function kbstop.m on github:
  * https://github.com/epfl-lts2/unlocbox/blob/master/utils/kbstop.m    (you need to download this function from the repo there)
  *
- * (Thank you) The inital implimentation is referred to Amanda Ng on matlabcentral:
+ * (Thank you) The initial implementation is referred to Amanda Ng on matlabcentral:
  * https://de.mathworks.com/matlabcentral/fileexchange/30622-non-wait-detection-of-keyboard-input--including-mex-implementation-?focused=5178714&tab=overview
  * 
  * 
